@@ -3,7 +3,7 @@
 
 int main()
 {
-	vector<string> disliked_words{ "broccolis","Epinards" };
+	vector<string> disliked_words{ "broccolis","epinards" };
 	vector<string> word_list{ "" };
 
 	cout << "Please enter a list of words:\n";
@@ -12,18 +12,24 @@ int main()
 		word_list.push_back(word);
 	}
 
+	bool is_disliked{ false };
 	for (string word : word_list)
 	{
 		for (string disliked : disliked_words)
 		{
 			if (word == disliked)
 			{
-				cout << "BLEEP ";
+				is_disliked = true;
 			}
-			else
-			{
-				cout << word << ' ';
-			}
+		}
+		if (is_disliked)
+		{
+			cout << "BLEEP ";
+			is_disliked = false;
+		}
+		else
+		{
+			cout << word << ' ';
 		}
 	}
 
