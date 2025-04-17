@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Programmation\\PPP2\\Chapter03\\Exercise02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60DB50F0-3BFE-4784-9F6B-690CF662C0AA}|Exercise02\\Exercise02.vcxproj|D:\\Programmation\\PPP2\\Chapter03\\Exercise02\\Exercise02\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{60DB50F0-3BFE-4784-9F6B-690CF662C0AA}|Exercise02\\Exercise02.vcxproj|solutionrelative:Exercise02\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "source.cpp",
+              "DocumentMoniker": "D:\\Programmation\\PPP2\\Chapter03\\Exercise02\\Exercise02\\source.cpp",
+              "RelativeDocumentMoniker": "Exercise02\\source.cpp",
+              "ToolTip": "D:\\Programmation\\PPP2\\Chapter03\\Exercise02\\Exercise02\\source.cpp",
+              "RelativeToolTip": "Exercise02\\source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-17T13:02:14.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
